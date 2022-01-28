@@ -1,4 +1,5 @@
-### Hi, My real name is antónio lugogo, I'm fullstack dev   👋
+### Hi, My real name is antónio lugogo, I'm fullstack dev 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDarkLexs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **DDarkLexs/DDarkLexs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
