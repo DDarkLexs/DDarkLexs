@@ -16,7 +16,9 @@ Skills:
 ![image](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+
 - 🔭 I’m currently working on freenlancer 
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDarkLexs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
