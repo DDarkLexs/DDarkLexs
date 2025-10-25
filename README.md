@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is antónio lugogo
-#### I am I.T student
+#### I am Software developer
 
 
 ### Hello there! 👋 I'm António Lugogo, a dedicated Fullstack developer with a passion for crafting innovative solutions.
