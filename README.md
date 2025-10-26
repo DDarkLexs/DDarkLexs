@@ -1,5 +1,7 @@
 ### Hi there! 👋 I'm António Lugogo, a Fullstack Developer from Luanda, Angola.
 
+![Coding Vibe](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
+
 #### About Me
 Dedicated software engineer crafting innovative fullstack solutions with Vue.js, React, Node.js, and more. Passionate about impactful tech products and continuous learning.
 
@@ -28,9 +30,13 @@ Dedicated software engineer crafting innovative fullstack solutions with Vue.js,
 #### Experience
 Freelance fullstack developer with projects in Vue.js, React, Node.js, and custom client solutions. Currently a Computer Systems Analyst at Grupo Gerson de Melo.
 
+![Pro Coder](https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDarkLexs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDarkLexs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Let's Connect!
 Open to collaborations and tech chats. Reach out to build the future together! 🚀
+
+![Eat Sleep Code Repeat](https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif)
