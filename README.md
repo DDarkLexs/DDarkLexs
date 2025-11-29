@@ -25,12 +25,3 @@ Dedicated software engineer crafting innovative fullstack solutions with Vue.js,
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
 
 </div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDarkLexs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDarkLexs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-#### Let's Connect!
-Open to collaborations and tech chats
-
-![Eat Sleep Code Repeat](https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif)
